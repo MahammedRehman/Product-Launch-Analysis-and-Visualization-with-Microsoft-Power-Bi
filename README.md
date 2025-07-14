@@ -76,14 +76,20 @@ Great dashboards aren’t just answers — they’re evolving decision systems.
 
 - Excel (initial data cleaning and pre-processing)
 
+## Explore My Other Work
 
-## Use Cases
+If you liked this project, you might also enjoy:
 
-- Product team pitch decks
+-  [2021-Online-Sales-Dashboard-Excel-vs-AI](https://github.com/MahammedRehman/2021-Online-Sales-Dashboard-Excel-vs-AI.git) – compared Manual and AI generated dashboard.
+-  [Sales Analysis Dashboard](https://github.com/REHMAN47/Sales_Analysis_Dashboard.git) – Built in Excel for marketing analytics.
 
-- Investor readiness analysis
+> 🔗 Visit my [GitHub profile](https://github.com/MahammedRehman) to see all my projects.
 
-- Campaign targeting optimization
 
-- Retail expansion planning
+## 🔗 Contact Info
+I'm always open to feedback, ideas, or opportunities!
+
+
+- 📧 Email : **rehmanshaik324@gmail**
+- 💼 LinkedIn: [rehmansk](https://www.linkedin.com/in/rehmansk/)
 
